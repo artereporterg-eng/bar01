@@ -1,0 +1,6 @@
+{
+  "name": "Bar & Cantina - Gestão e PDV",
+  "description": "Sistema completo para bar e cantina com gestão de stock, ponto de venda, impressão de tickets, fecho de turnos por funcionário e relatórios diários, mensais e anuais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
